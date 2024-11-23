@@ -59,7 +59,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Varanasi, UttarPradesh, India",
+  address: "Lucknow, UttarPradesh, India",
   phoneNo: "+918299639374",
-  email: "arihant.singh9703@gmail.com",
+  email: "arihant.singh0907@gmail.com",
 };
